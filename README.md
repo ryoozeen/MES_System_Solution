@@ -32,7 +32,8 @@
 ---
 
 ## 데모
-- 이미지: ![Uploading image.png…]()
+- 이미지: <img width="1000" height="800" alt="MES" src="https://github.com/user-attachments/assets/a1a4221c-1367-4a43-b9e9-42605111cebb" />
+
 
 - 영상: https://www.youtube.com/watch?v=zDSpIVCrd0k
 
